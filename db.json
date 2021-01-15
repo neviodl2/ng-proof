@@ -1,1 +1,52 @@
 
+{ "tipi_contatti":[
+    {
+        "tcnt_validazione": "email",
+        "tcnt_tgcn_id": 2,
+        "tcnt_inizio": "2011-11-01",
+        "tcnt_descr": "EMAIL",
+        "tcnt_id": 1,
+        "tcnt_fine": "2999-12-31"
+    },
+    {
+        "tcnt_validazione": "telephonenumber",
+        "tcnt_tgcn_id": 1,
+        "tcnt_inizio": "2011-11-01",
+        "tcnt_descr": "TELEFONO FISSO",
+        "tcnt_id": 2,
+        "tcnt_fine": "2999-12-31"
+    },
+    {
+        "tcnt_validazione": "telephonenumber",
+        "tcnt_tgcn_id": 1,
+        "tcnt_inizio": "2011-11-01",
+        "tcnt_descr": "CELLULARE",
+        "tcnt_id": 3,
+        "tcnt_fine": "2999-12-31"
+    },
+    {
+        "tcnt_validazione": "telephonenumber",
+        "tcnt_tgcn_id": 1,
+        "tcnt_inizio": "2011-11-01",
+        "tcnt_descr": "FAX",
+        "tcnt_id": 4,
+        "tcnt_fine": "2999-12-31"
+    },
+    {
+        "tcnt_validazione": "url",
+        "tcnt_tgcn_id": 2,
+        "tcnt_inizio": "2011-11-01",
+        "tcnt_descr": "WEB URL",
+        "tcnt_id": 5,
+        "tcnt_fine": "2999-12-31"
+    },
+    {
+        "tcnt_validazione": "skype",
+        "tcnt_tgcn_id": 2,
+        "tcnt_inizio": "2011-11-01",
+        "tcnt_descr": "SKYPE",
+        "tcnt_id": 6,
+        "tcnt_fine": "2999-12-31"
+    }
+]
+ }
